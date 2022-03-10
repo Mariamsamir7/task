@@ -1,0 +1,26 @@
+.p {
+    background-color: black;
+}
+.title {
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+.buttons{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.y {
+   display: flex;
+   justify-content: space-between;
+  margin-right: 30px;
+  margin-left: 30px;
+   margin-bottom: 20px;
+} 
+.card{
+    margin-bottom: 40px;
+}
+.footer {
+margin-bottom: 50px;
+margin-top: 40px;
+padding-right: 400px;
+}
